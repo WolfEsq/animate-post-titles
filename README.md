@@ -1,6 +1,6 @@
 # animate-post-titles
 
-WordPress plugin to animate post titles. Adds options for animation to the WordPress editor.
+WordPress plugin to animate page and post titles. Adds options for animation to the WordPress editor.
 
 ![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.2-8892BF.svg)
 ![GitHub license](https://img.shields.io/badge/license-GPL_2-blue.svg)
